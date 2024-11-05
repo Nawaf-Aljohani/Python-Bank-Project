@@ -9,7 +9,7 @@ My first college Python project to create a simple terminal only bank program
 
 ## Getting Started
 1. Use your prefered IDE or any online python compiler and include the **main.py** file
-2. Run the program!
+2. Run the program
 
 ## Features
 - Sign up/Log in
