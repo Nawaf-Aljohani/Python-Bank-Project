@@ -1,0 +1,7 @@
+Card number: 9876
+PIN number: 1234
+Email: s201935390@kfupm.edu.sa
+Blanace: 5000
+Phone Number: None
+Car insurance Bill #1: 1500
+Health insurance Bill #2: 750
