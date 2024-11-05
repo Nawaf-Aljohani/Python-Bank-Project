@@ -5,7 +5,7 @@
 # Python-Bank-Project
 My first college Python project to create a simple terminal only bank program 
 <br>
-Course: ICS 104
+Course: ICS 104 - Introduction to Programming Using Python and C
 
 
 ## Getting Started
